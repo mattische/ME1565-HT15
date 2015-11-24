@@ -1,7 +1,7 @@
 #Övningar inför workshop 151126#
 
 Inför nästa workshop som är på torsdag 26/11 2015 så finns här lite övningar att göra.  Vissa är svårare och vissa är lättare.  
-Gör de du hinner och känner för. Den sista övningen, Mera klasser, är något svår - men den är ett riktmärke till vad du snart bör kunna.
+Gör de du hinner och känner för. Den sista övningen, Mera klasser, är något svår - men den är ett riktmärke mot vad du snart bör kunna.
 
 - **Tal**  
 Gör ett Java-program som låter användaren mata in ett antal tal (så många som användaren bestämmer).  
