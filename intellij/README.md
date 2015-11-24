@@ -19,3 +19,10 @@ a valid situation.`_
 + 5 för din top-level panel, skapa en variabel till källkoden. D v s ange ett värde/variabelnamn för 'Property' 'field name'.  
 Detta skapar en variabel i källkoden.  
 + 6 i din källkodsklass (som du angett i punkt 4), tryck `ALT + INSERT` och välj att lägga till en main-metod i pop-up menyn.
+  
+
+<br><br>
+***Referens i källkoden till komponent***  
+För att skapa en variabel/field av en komponent, fyll i property för 'field name' i Component tree.  
+***Listerner/Event***  
+För att koppla en action/lyssnare till en komponent, t ex ActionListener till en JButton; markera komponenten och högerklicka och välj 'Create Listener'. Shortcut är `CTRL + O`.
