@@ -2,7 +2,7 @@
   
 <br>
 <br>
-_Filerna vi arbetade med finns i mapparna i detta repot. I mappen TESTGUI ligger hela IntelliJ-projektet, varför du kanske inte kan öppna det i din editor eller IDE. Dock kan du titta i köllkodsfilerna.
+_Filerna vi arbetade med finns i mapparna i detta repot. I mappen TESTGUI ligger hela IntelliJ-projektet, varför du kanske inte kan öppna det i din editor eller IDE. Dock kan du titta i köllkodsfilerna._  
 <br>
 <br>
 
