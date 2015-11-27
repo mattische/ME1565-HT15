@@ -13,9 +13,9 @@ Metoder för att lägga till och ta bort program bör finnas. Vad gäller Progra
 Metoder för att lägga till och ta bort studenter bör finnas.
 Vad gäller Student så kan du använda dig av attributen namn, acronym och ytterligare attribut du tycker passar.
 
-_Tips: läs på om klasser och objekt. Gör dig bekant med begrepp (och lär dig implementera dem) såsom konstruktor, objekt, metoder  
-(egenskaper) och attribut (variabler).   
-Det är också en god idé att kolla upp vad private och public betyder och hur det används. Ett koncept i det här sammanhanget är också  
+_Tips: läs på om klasser och objekt. Gör dig bekant med begrepp (och lär dig implementera dem) såsom konstruktor, objekt, metoder 
+(egenskaper) och attribut (variabler). 
+Det är också en god idé att kolla upp vad private och public betyder och hur det används. Ett koncept i det här sammanhanget är också 
 aggregation - se http://www.javatpoint.com/aggregation-in-java och http://beginnersbook.com/2013/05/aggregation/_  
 
 
