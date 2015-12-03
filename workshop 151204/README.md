@@ -1,7 +1,10 @@
-#Övningar workshop 151204 och 151205
+#Övningar workshop 151203 och 151204
 
 
-####Förmiddag 151204 
+####Förmiddag 151203 
+
++ Föreläsning om OOP  
+ 
 
 **Mera klasser**  
 Använd dig av tre stycken klasser; University, Program och Student. Relationerna är följande:
@@ -19,17 +22,20 @@ Det är också en god idé att kolla upp vad private och public betyder och hur 
 aggregation - se http://www.javatpoint.com/aggregation-in-java och http://beginnersbook.com/2013/05/aggregation/_  
 
 
-####Eftermiddag 151205  
+####Eftermiddag 151203  
 
-Eventuell fortsättning med övningen ovan samt utbyggnad av den.  
-Tänkbar utbyggnad;  
++ Mer OOP
++ Fortsättning med övningen ovan.  
+
+
+####Förmiddag 151204  
++ Niklas visar Slick 2D library (http://slick.ninjacave.com/)
++ Fortsättning på dagen innan;
++ Tänkbar utbyggnad;  
 + I/O: spara/öppna till och från fil (inkluderat serialization).
 + GUI: grafiskt gränsnitt till applikationen  
 + Composition (http://www.journaldev.com/1325/what-is-composition-in-java-java-composition-example, http://java.about.com/od/c/g/composition.htm)
 + ...
-
-####Förmiddag 151205  
-+ Niklas visar Slick 2D library (http://slick.ninjacave.com/)
 + Inheritance (arv) i Java utbyggnad av övningen från dagen innan. Se http://www.tutorialspoint.com/java/java_inheritance.htm, http://examples.javacodegeeks.com/java-basics/java-inheritance-example/ och http://stackoverflow.com/questions/2399544/difference-between-inheritance-and-composition
 + Om tid finns bygger vi en egen server i Java.  
 + ...
