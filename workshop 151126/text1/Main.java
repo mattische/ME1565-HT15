@@ -28,23 +28,7 @@ public class Main {
 
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public boolean palindromeChecker(String txt) {
-        //check if string is palindrome...
         String p = "";
         for(int i = txt.length()-1; i >= 0; i--) {
             System.out.print(txt.charAt(i));
@@ -52,7 +36,7 @@ public class Main {
         }
         System.out.println();
         if (txt.equalsIgnoreCase(p)) {
-            System.out.println("\nHOORAY MACKARAY! IT IS AN PALIINDROME! " + p);
+            System.out.println("\nHOORAY MACKARAY! PALIINDROME! " + p);
             return true;
         }
         return false;
